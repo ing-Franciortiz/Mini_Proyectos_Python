@@ -1,4 +1,7 @@
 # Mini_Proyectos_Python
+Tienda de Snacks:
+<img width="3814" height="2009" alt="image" src="https://github.com/user-attachments/assets/6834d936-d122-4b12-84b1-fff46dcf2def" />
+
 Sistema de inventario con funcion:
 <img width="3839" height="2009" alt="image" src="https://github.com/user-attachments/assets/28ba02d2-1ae2-40b2-a103-37bd2fe2c543" />
 
