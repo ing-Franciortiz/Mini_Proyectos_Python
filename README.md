@@ -1,4 +1,7 @@
 # Mini_Proyectos_Python
+Calculadora con Funcion:
+<img width="3628" height="1950" alt="image" src="https://github.com/user-attachments/assets/22249611-6cf6-40cc-aab8-fd25412a9b34" />
+
 Tienda de Snacks:
 <img width="3814" height="2009" alt="image" src="https://github.com/user-attachments/assets/6834d936-d122-4b12-84b1-fff46dcf2def" />
 
