@@ -1,4 +1,7 @@
 # Mini_Proyectos_Python
+Sistema de inventario con funcion:
+<img width="3839" height="2009" alt="image" src="https://github.com/user-attachments/assets/28ba02d2-1ae2-40b2-a103-37bd2fe2c543" />
+
 Sistema de inventario:
 
 <img width="2884" height="1733" alt="Captura de pantalla 2025-09-12 202740" src="https://github.com/user-attachments/assets/a1a0f0f3-e662-4a13-b95e-3101e8390c6a" />
