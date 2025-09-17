@@ -1,4 +1,7 @@
 # Mini_Proyectos_Python
+Herencia y Sobreescritura:
+<img width="1309" height="666" alt="image" src="https://github.com/user-attachments/assets/c7df9fd5-6f87-48ce-bede-3a3b004cfa84" />
+
 Clases y Objetos:
 <img width="3060" height="824" alt="Captura de pantalla 2025-09-15 173926" src="https://github.com/user-attachments/assets/2acf0718-08ea-4a8a-b1e5-a34d47184e51" />
 
